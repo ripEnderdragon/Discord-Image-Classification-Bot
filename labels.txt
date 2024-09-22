@@ -1,0 +1,5 @@
+0 banana
+1 chilli
+2 pineapple
+3 sunflower
+4 tomato
